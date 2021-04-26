@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Github Page!"
+title: "Welcome!"
+date: 2021-04-26
 ---
 
 # Welcome
